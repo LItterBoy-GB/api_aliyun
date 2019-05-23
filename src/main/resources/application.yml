@@ -1,0 +1,4 @@
+location: ${LOCATION}
+accessKeyId: ${ACCESS_KEY_ID}
+accessSecret: ${ACCESS_SECRET}
+domain: ${DOMAIN}
